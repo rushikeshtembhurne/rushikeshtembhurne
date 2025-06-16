@@ -66,8 +66,9 @@ Here you’ll find a curated collection of my projects and contributions that re
 
 ### 🔗 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/rushikesh-tembhurne)
-- 📧 [Email Me](rishikeshtembhurne009@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rushikesh--tembhurne-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rushikesh-tembhurne)
+
+[![Email](https://img.shields.io/badge/Email-rushikesh.devops%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rishikeshtembhurne009@gmail.com)
 
 ---
 
